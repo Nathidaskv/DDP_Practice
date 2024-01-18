@@ -1,4 +1,4 @@
-# Add comment
+# Comment
 # Inventory Management System
 
 # The inventory is stored in a dictionary.

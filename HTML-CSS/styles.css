@@ -1,0 +1,119 @@
+/* Reset some default styles */
+body,
+h1,
+h2,
+p,
+ul,
+li,
+a,
+img {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    text-decoration: none;
+}
+
+/* Global styles */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    color: #333;
+    line-height: 1.6;
+}
+
+.container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+/* Header styles */
+header {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 20px;
+}
+
+/* Song info styles */
+.song-info {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 20px;
+}
+
+.song-image img {
+    max-width: 100%;
+    height: auto;
+}
+
+.song-details {
+    margin-left: 20px;
+}
+
+.song-details h2 {
+    font-size: 1.5rem;
+    margin-bottom: 10px;
+}
+
+.song-details p {
+    font-size: 1rem;
+    margin-bottom: 10px;
+}
+
+/* Song description styles */
+.song-description {
+    padding: 20px;
+    text-align: center;
+}
+
+.song-description h2 {
+    font-size: 1.5rem;
+    margin-bottom: 10px;
+}
+
+.song-description p {
+    font-size: 1rem;
+    margin-bottom: 20px;
+}
+
+/* Purchase section styles */
+.purchase {
+    background-color: #fff;
+    text-align: center;
+    padding: 20px;
+}
+
+.purchase h2 {
+    font-size: 1.5rem;
+    margin-bottom: 10px;
+}
+
+.purchase p {
+    font-size: 1rem;
+    margin-bottom: 20px;
+}
+
+.buy-button {
+    display: inline-block;
+    background-color: #333;
+    color: #fff;
+    padding: 10px 20px;
+    text-decoration: none;
+    font-size: 1rem;
+    border-radius: 3px;
+}
+
+.buy-button:hover {
+    background-color: #555;
+}
+
+/* Footer styles */
+footer {
+    text-align: center;
+    background-color: #333;
+    color: #fff;
+    padding: 10px 0;
+    clear: both;
+}

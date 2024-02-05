@@ -18,5 +18,5 @@
 | ----------- | ----------- |
 | [- Blog](https://github.com/Nathidaskv/DDP_Practice/tree/main/HTML-CSS/Blog)      | [- Homework - Assignment](https://github.com/Nathidaskv/DDP_Practice/tree/main/Python/Assignments)       |
 | [- Product page](https://github.com/Nathidaskv/DDP_Practice/tree/main/HTML-CSS/Product%20page)   | [- DDP Test](https://github.com/Nathidaskv/DDP_Practice/tree/main/Python/DDP%20Test)        |
-| - Other practicing works & notes   | [- For Beginners](https://github.com/Nathidaskv/DDP_Practice/tree/main/Python/For%20Beginners)        |
-|    | - Other practicing works & notes        |
+| [- Audio](https://github.com/Nathidaskv/DDP_Practice/tree/main/HTML-CSS/Audio)   | [- For Beginners](https://github.com/Nathidaskv/DDP_Practice/tree/main/Python/For%20Beginners)        |
+| - Other practicing works & notes   | - Other practicing works & notes        |

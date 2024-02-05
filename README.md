@@ -14,12 +14,9 @@
 ##### - Evaluate and integrate a range of programming languages to develop interactive and professional web applications.
 ---
 ### Contents
-##### <mark>[1. HTML-CSS](https://github.com/Nathidaskv/DDP_Practice/tree/main/HTML-CSS)</mark>
-###### [- Blog](https://github.com/Nathidaskv/DDP_Practice/tree/main/HTML-CSS/Blog)
-###### [- Product page](https://github.com/Nathidaskv/DDP_Practice/tree/main/HTML-CSS/Product%20page)
-###### - Other practicing works & notes
-##### <mark>[2. Python](https://github.com/Nathidaskv/DDP_Practice/tree/main/Python)</mark>
-###### [- Homework - Assignment](https://github.com/Nathidaskv/DDP_Practice/tree/main/Python/Assignments)
-###### [- DDP Test](https://github.com/Nathidaskv/DDP_Practice/tree/main/Python/DDP%20Test)
-###### [- For Beginners](https://github.com/Nathidaskv/DDP_Practice/tree/main/Python/For%20Beginners)
-###### - Other practicing works & notes
+| <mark>[1. HTML-CSS](https://github.com/Nathidaskv/DDP_Practice/tree/main/HTML-CSS)</mark>      | <mark>[2. Python](https://github.com/Nathidaskv/DDP_Practice/tree/main/Python)</mark> |
+| ----------- | ----------- |
+| [- Blog](https://github.com/Nathidaskv/DDP_Practice/tree/main/HTML-CSS/Blog)      | [- Homework - Assignment](https://github.com/Nathidaskv/DDP_Practice/tree/main/Python/Assignments)       |
+| [- Product page](https://github.com/Nathidaskv/DDP_Practice/tree/main/HTML-CSS/Product%20page)   | [- DDP Test](https://github.com/Nathidaskv/DDP_Practice/tree/main/Python/DDP%20Test)        |
+| - Other practicing works & notes   | [- For Beginners](https://github.com/Nathidaskv/DDP_Practice/tree/main/Python/For%20Beginners)        |
+|    | - Other practicing works & notes        |
